@@ -1,1 +1,2 @@
+Docker é um gerenciador de contêineres.
 Esta linha foi inserida na ramificação ramo1.
